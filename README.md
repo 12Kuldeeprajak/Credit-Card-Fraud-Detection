@@ -1,12 +1,13 @@
 
 # Credit Card Fraud Detection
-Objectives:
+# Objectives:
 The primary objective of the project was to develop an efficient system capable
 of identifying and preventing fraudulent transactions in real-time. Additionally,
 the project aimed to enhance the security measures surrounding credit card
 usage, thereby safeguarding the financial interests of both cardholders and
 financial institutions.
-Methods:
+
+# Methods:
 The project utilized a combination of machine learning algorithms and data
 analysis techniques to achieve its objectives. Initially, historical transaction
 data were collected and preprocessed to extract relevant features. Subsequently,
